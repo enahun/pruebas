@@ -1,0 +1,14 @@
+{
+  "name": "hola_express",
+  "version": "1.0.0",
+  "description": "HolaMundo Xpress",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isaax",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
